@@ -576,3 +576,7 @@
 #manage_topic {
     margin: 12px 0 !important;
 }
+
+span.item-flex-space {
+    flex: 0 !important;
+}
