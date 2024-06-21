@@ -580,3 +580,7 @@
 span.item-flex-space {
     flex: 0 !important;
 }
+
+p {
+    word-break: auto-phrase
+}
